@@ -1,2 +1,2 @@
 # Bioinformatics-scripts
-Scripts that solve common bioinformatics problems
+Scripts created to solve Rosalind bioinformatics problems.
