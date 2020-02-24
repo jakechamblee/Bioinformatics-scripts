@@ -1,2 +1,2 @@
 # Bioinformatics-scripts
-## Scripts created to solve Rosalind bioinformatics problems.
+#### Scripts created to solve Rosalind bioinformatics problems.
