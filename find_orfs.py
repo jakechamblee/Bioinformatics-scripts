@@ -1,6 +1,5 @@
 '''Given: A DNA string s of length at most 1 kbp in FASTA format.
-Return: Every distinct candidate protein string that can be translated from ORFs of s.
-Strings can be returned in any order.'''
+Return: Every distinct candidate protein string that can be translated from ORFs of s.'''
 dna_strand = 'AGCCATGTAGCTAACTCAGGTTACATGGGGATGACCCCGCGACTTGGATTAGAGTCTCTTTTGGAATAAGCCTGAATGATCCGAGTAGCATCTCAG'
 
 
